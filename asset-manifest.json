@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.8899e144.css",
-    "main.js": "/react-portfolio/static/js/main.752b90a5.js",
+    "main.js": "/react-portfolio/static/js/main.25eea1a3.js",
     "static/media/avatar.jpg": "/react-portfolio/static/media/avatar.121578a04a6c2596710a.jpg",
     "static/media/animal-palace-home.png": "/react-portfolio/static/media/animal-palace-home.e8127f059ed26d3b1d94.png",
     "static/media/bts-quiz.png": "/react-portfolio/static/media/bts-quiz.ecc60a902759dd4f3c2f.png",
     "static/media/pokefinder.png": "/react-portfolio/static/media/pokefinder.eacff248c97f3f77bb7f.png",
     "static/media/dayplanner.png": "/react-portfolio/static/media/dayplanner.e6abc46df6d9b69b36d3.png",
-    "static/media/bc-resume.pdf": "/react-portfolio/static/media/bc-resume.661b04677047e8890471.pdf",
+    "static/media/bc-resume-2022.pdf": "/react-portfolio/static/media/bc-resume-2022.a56d9ec0f88e8641f700.pdf",
     "static/media/jquery.png": "/react-portfolio/static/media/jquery.80320acb6b27e39a4781.png",
     "static/media/expressjs.svg": "/react-portfolio/static/media/expressjs.357ce505138299cb2a290345d1d51c28.svg",
     "static/media/thankyou.png": "/react-portfolio/static/media/thankyou.e838101c321b02033b65.png",
     "index.html": "/react-portfolio/index.html",
     "static/media/mongodb.svg": "/react-portfolio/static/media/mongodb.67761c18dd27879104c98bfc4930d459.svg",
     "main.8899e144.css.map": "/react-portfolio/static/css/main.8899e144.css.map",
-    "main.752b90a5.js.map": "/react-portfolio/static/js/main.752b90a5.js.map"
+    "main.25eea1a3.js.map": "/react-portfolio/static/js/main.25eea1a3.js.map"
   },
   "entrypoints": [
     "static/css/main.8899e144.css",
-    "static/js/main.752b90a5.js"
+    "static/js/main.25eea1a3.js"
   ]
 }
